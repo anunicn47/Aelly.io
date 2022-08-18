@@ -36,7 +36,7 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 
 ## 🚀 Getting Started
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-portfolio-cara)
+[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/anunicn47/Aelly-website-)
 
 ### 1. **Create a Gatsby site.**
 
